@@ -35,5 +35,5 @@ $Env:PATH = "$UsdLibPath$([System.IO.Path]::PathSeparator)$Env:PATH"
 $Env:PATH = "$UsdBinPath$([System.IO.Path]::PathSeparator)$Env:PATH"
 ```
 
-### PySide2 related 
+### No module named 'PySide2' 
 > pip install PySide2
